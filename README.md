@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kausar Chaudhary</h1>
 <h3 align="center">Student Of Computer Engineering</h3>
-<img align="right" alt="Coding"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.toptal.com%2Fpress-center%2Ffirst-scholarship-winner&psig=AOvVaw1SX5U8QzXEPkJmePc8YcPB&ust=1694058474643000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjRyt6JlYEDFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharykausar&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharykausar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaudharykausar" alt="chaudharykausar" /></a> </p>
@@ -29,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharykausar&show_icons=true&locale=en" alt="chaudharykausar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharykausar&" alt="chaudharykausar" /></p>
+
+
 
 
