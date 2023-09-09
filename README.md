@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Kausar Chaudhary</h1>
 <h3 align="center">Student Of Computer Engineering</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharykausar&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharykausar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaudharykausar" alt="chaudharykausar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Oryx InfoTech Website**
 
 - 🌱 I’m currently learning **Frontend Languages**
+
+- 💬 Ask me about **Html Css Javascript python**
 
 - 📫 How to reach me **ch.kausar2005@gmail.com**
 
@@ -28,7 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharykausar&show_icons=true&locale=en" alt="chaudharykausar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharykausar&" alt="chaudharykausar" /></p>
-
-
-
-
